@@ -1,0 +1,16 @@
+C:\Users\C4inaction\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\C4inaction\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\C4inaction\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\C4inaction\source\repos\Client\Client\bin\Debug\Client.xml
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.vbprojAssemblyReference.cache
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.Resources.resources
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.vbproj.GenerateResource.cache
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.vbproj.CoreCompileInputs.cache
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.xml
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\C4inaction\source\repos\Client\Client\bin\Debug\Client.exe.manifest
+C:\Users\C4inaction\source\repos\Client\Client\bin\Debug\Client.application
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.exe.manifest
+C:\Users\C4inaction\source\repos\Client\Client\obj\Debug\Client.application
